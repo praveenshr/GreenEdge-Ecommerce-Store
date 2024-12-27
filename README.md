@@ -7,8 +7,8 @@
 ![second](https://github.com/user-attachments/assets/e5b45c6c-0e44-4435-95b7-d08d776b8f27)
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/13fa90b5-add3-4c9c-a5cd-c85435aefec1" alt="1" width="48%">
-  <img src="https://github.com/user-attachments/assets/13fa90b5-add3-4c9c-a5cd-c85435aefec1" alt="2" width="48%">
+  <img src="https://github.com/user-attachments/assets/13fa90b5-add3-4c9c-a5cd-c85435aefec1" alt="1" width="50%">
+  <img src="https://github.com/user-attachments/assets/13fa90b5-add3-4c9c-a5cd-c85435aefec1" alt="2" width="50%">
 </div>
 
 
