@@ -1,5 +1,3 @@
-<h1 align="center">E-Commerce Store 🛒</h1>
-
 ![gifmain](https://github.com/user-attachments/assets/065e75b3-bd52-4549-940f-7e1ae08ae0a8)
 
 
