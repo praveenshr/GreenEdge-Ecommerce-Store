@@ -88,6 +88,17 @@ Stitch & Sole Co. is a full-stack e-commerce web application using React, Node.j
 
 - **Automated Testing**: I would implement unit and integration tests for key features to ensure reliability and make the app easier to maintain.
 
+## 📚 Lessons Learned
+
+
+I improved my ability to create responsive layouts, ensuring the application adapts well to different screen sizes and devices, providing users with a seamless experience on mobile and desktop.
+
+I refined my ability to implement and manage e-commerce functionalities such as product management, cart operations, and Stripe payment integration, ensuring a seamless shopping experience for users.
+
+I enhanced my ability to integrate third-party services like Cloudinary for image uploads, optimizing the platform's functionality and enabling users to upload images effortlessly.
+
+
+
 
 ### Setup .env file
 
