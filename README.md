@@ -39,7 +39,6 @@ Stitch & Sole Co. is a full-stack e-commerce web application using React, Node.j
 ![Auth0](https://img.shields.io/badge/Auth0-000000?style=for-the-badge&logo=auth0&logoColor=white)  
 ![Stripe](https://img.shields.io/badge/Stripe-6772E5?style=for-the-badge&logo=stripe&logoColor=white)  
 ![Render](https://img.shields.io/badge/Render-22A7F0?style=for-the-badge&logo=render&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -69,6 +68,25 @@ Stitch & Sole Co. is a full-stack e-commerce web application using React, Node.j
 8. **Gift Card and Coupon System**  
    Integrated **gift card** and **coupon** features, offering users discounts and promotions, adding an extra layer of engagement and value to the customer experience.
 
+---
+
+## ⚙️ Planned Optimizations
+
+- **Improve Performance**: I would optimize API responses by implementing pagination and lazy loading for large product lists to reduce page load times.
+
+- **Enhance User Experience**: I would implement advanced search functionality, such as filters by size, color, and price range, to create a more intuitive shopping experience.
+
+- **SEO Optimization**: I would focus on improving the app's SEO by adding meta tags, structured data, and enhancing page crawlability to attract more organic traffic.
+
+- **Mobile Responsiveness**: I would refine the mobile view, adjusting UI components to ensure better usability across different screen sizes.
+
+- **User Reviews and Ratings**: I would add a feature that allows customers to leave reviews and rate products, helping future buyers make more informed decisions.
+
+- **Admin Dashboard Enhancements**: I would implement data visualization tools on the admin dashboard to help track sales, traffic, and customer trends more effectively.
+
+- **Security Enhancements**: I would add two-factor authentication (2FA) during login to improve user security.
+
+- **Automated Testing**: I would implement unit and integration tests for key features to ensure reliability and make the app easier to maintain.
 
 
 ### Setup .env file
