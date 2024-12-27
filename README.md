@@ -37,9 +37,9 @@ Stitch & Sole Co. is a full-stack e-commerce web application using React, Node.j
 - ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 - ![Auth0](https://img.shields.io/badge/Auth0-000000?style=for-the-badge&logo=auth0&logoColor=white)
-- ![Stripe](https://img.shields.io/badge/Stripe-6772E5?style=for-the-badge&logo=stripe&logoColor=white)
-- ![Render](https://img.shields.io/badge/Render-22A7F0?style=for-the-badge&logo=render&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+ ![Stripe](https://img.shields.io/badge/Stripe-6772E5?style=for-the-badge&logo=stripe&logoColor=white)
+ ![Render](https://img.shields.io/badge/Render-22A7F0?style=for-the-badge&logo=render&logoColor=white)
+
 
 
 ### Setup .env file
