@@ -1,4 +1,8 @@
-<img src="https://github.com/user-attachments/assets/065e75b3-bd52-4549-940f-7e1ae08ae0a8" width="100%" alt="Travelara.org"/>
+# Travel Web-Application: <a href="https://shawncharles.com/travelara" target="_blank">Visit Here</a>
+<a href="https://shawncharles.com/travelara" target="_blank">
+<img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/blob/main/images/gif1.gif?raw=true" width="100%" alt="Travelara.org"/>
+</a>
+
 
 ## 📚 Introduction
 Stitch & Sole Co. is a full-stack e-commerce web application using React, Node.js, and Stripe for payment processing, offering features such as secure user authentication, product management, cart functionality, and dynamic checkout. The platform includes an admin dashboard for product analytics and a seamless shopping experience with responsive design powered by Tailwind CSS. 
