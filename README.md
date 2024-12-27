@@ -26,8 +26,6 @@ Stitch & Sole Co. is a full-stack e-commerce web application using React, Node.j
 
 ## ⚙️ Tech Used
 
-## Tech Stack
-
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=react&logoColor=white)  
