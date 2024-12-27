@@ -1,5 +1,6 @@
 
-![gifmain (1)](https://github.com/user-attachments/assets/40fd134e-ddf3-4daf-8908-8217a1714993)
+
+![main](https://github.com/user-attachments/assets/c21be682-c456-4d6c-bdbf-1218fcecd57c)
 
 
 ## 📚 Introduction
