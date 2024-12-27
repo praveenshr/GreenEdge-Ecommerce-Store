@@ -1,6 +1,7 @@
 <h1 align="center">E-Commerce Store 🛒</h1>
 
-![gifmain](https://github.com/user-attachments/assets/88447594-620f-48b7-8c25-06fb7d36c322)
+![gifmain](https://github.com/user-attachments/assets/065e75b3-bd52-4549-940f-7e1ae08ae0a8)
+
 
 ## 📚 Introduction
 Stitch & Sole Co. is a full-stack e-commerce web application using React, Node.js, and Stripe for payment processing, offering features such as secure user authentication, product management, cart functionality, and dynamic checkout. The platform includes an admin dashboard for product analytics and a seamless shopping experience with responsive design powered by Tailwind CSS. 
