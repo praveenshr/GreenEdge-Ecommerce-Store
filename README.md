@@ -1,5 +1,6 @@
-<img src="https://github.com/user-attachments/assets/f2633a7d-1769-48d3-908e-5b173645c468" width="100%" alt="previewOfSite"/>
 
+
+![main](https://github.com/user-attachments/assets/ab10f674-a2f1-45b8-8a30-700476cb4bad)
 
 
 ## 📚 Introduction
