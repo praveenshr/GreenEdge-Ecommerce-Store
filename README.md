@@ -1,7 +1,7 @@
 <h1 align="center">E-Commerce Store 🛒</h1>
 
 ## 📚 Introduction
-EcoNexus Co. is a full-stack e-commerce web application using React, Node.js, and Stripe for payment processing, offering features such as secure user authentication, product management, cart functionality, and dynamic checkout. The platform includes an admin dashboard for product analytics and a seamless shopping experience with responsive design powered by Tailwind CSS. 
+FitHaven Co. is a full-stack e-commerce web application using React, Node.js, and Stripe for payment processing, offering features such as secure user authentication, product management, cart functionality, and dynamic checkout. The platform includes an admin dashboard for product analytics and a seamless shopping experience with responsive design powered by Tailwind CSS. 
 
 -   🗄️ MongoDB & Redis Integration
 -   💳 Stripe Payment Setup
