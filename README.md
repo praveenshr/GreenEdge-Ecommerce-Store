@@ -43,6 +43,33 @@ Stitch & Sole Co. is a full-stack e-commerce web application using React, Node.j
 ![Render](https://img.shields.io/badge/Render-22A7F0?style=for-the-badge&logo=render&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+---
+
+## 🔋 Features
+
+1. **Seamless User Authentication & Authorization**  
+   Integrated with **Auth0**, the platform ensures secure user sign-up, login, and role-based access control, providing a highly secure and scalable authentication system.
+
+2. **Real-time Product Management Dashboard**  
+   A fully-featured admin dashboard that allows admins to manage products (add, update, delete), view analytics, and feature products, enhancing the platform's flexibility and usability.
+
+3. **Stripe Payment Integration**  
+   Secure and efficient payment processing using **Stripe**, enabling seamless transactions with features like coupon codes and gift card support for a superior customer experience.
+
+4. **Responsive UI Built with Tailwind CSS**  
+   The front-end is designed using **Tailwind CSS**, ensuring a highly responsive and visually appealing user interface that works seamlessly across all devices.
+
+5. **Product Filtering and Pagination**  
+   Implementing advanced **filtering**, **sorting**, and **pagination** for products, allowing users to easily browse through categories, find featured products, and make informed purchases.
+
+6. **Real-time Order Status Tracking**  
+   A dynamic order tracking system that updates users on the status of their orders in real-time, providing transparency and improving customer satisfaction.
+
+7. **Scalable Cloud Deployment on Render**  
+   The entire application is deployed on **Render**, a powerful cloud platform, ensuring fast, reliable, and scalable hosting for both front-end and back-end components.
+
+8. **Gift Card and Coupon System**  
+   Integrated **gift card** and **coupon** features, offering users discounts and promotions, adding an extra layer of engagement and value to the customer experience.
 
 
 
