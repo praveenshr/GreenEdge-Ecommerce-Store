@@ -1,16 +1,17 @@
-
-
 ![main](https://github.com/user-attachments/assets/ab10f674-a2f1-45b8-8a30-700476cb4bad)
 
 ![gifthird](https://github.com/user-attachments/assets/a5ab8c48-3a97-495c-b26c-30248c35dff5)
 
 ![second](https://github.com/user-attachments/assets/e5b45c6c-0e44-4435-95b7-d08d776b8f27)
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/13fa90b5-add3-4c9c-a5cd-c85435aefec1" alt="1" width="49%">
-  <img src="https://github.com/user-attachments/assets/13fa90b5-add3-4c9c-a5cd-c85435aefec1" alt="2" width="49%">
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <img src="https://github.com/user-attachments/assets/20e148c8-dfb2-4871-bd43-41bca6a2a5cc" alt="1" width="48%">
+  <img src="https://github.com/user-attachments/assets/f2a06867-0a70-4f5d-a7a8-9b6684a90176" alt="2" width="48%">
 </div>
-
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/f03bcd6d-3fb5-4ea4-9a3d-e31d082e0fcb" alt="3" width="48%">
+  <img src="https://github.com/user-attachments/assets/486e9a6e-22a4-4077-83e8-5e0631717e71" alt="4" width="48%">
+</div>
 
 ## 📚 Introduction
 Stitch & Sole Co. is a full-stack e-commerce web application using React, Node.js, and Stripe for payment processing, offering features such as secure user authentication, product management, cart functionality, and dynamic checkout. The platform includes an admin dashboard for product analytics and a seamless shopping experience with responsive design powered by Tailwind CSS. 
