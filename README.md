@@ -4,13 +4,14 @@
 
 <img src="images/gifthird.gif" alt="Third GIF" width="100%"/>
 
-<img src="images/1.jpg" alt="Image 1" width="100%"/>
-
-<img src="images/2.jpg" alt="Image 2" width="100%"/>
-
-<img src="images/3.jpg" alt="Image 3" width="100%"/>
-
-<img src="images/4.jpg" alt="Image 4" width="100%"/>
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <img src="images/1.jpg" alt="Image 1" width="49%">
+  <img src="images/2.jpg" alt="Image 2" width="49%">
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <img src="images/3.jpg" alt="Image 3" width="49%">
+  <img src="images/4.jpg" alt="Image 4" width="49%">
+</div>
 
 
 ## 📚 Introduction
