@@ -1,8 +1,8 @@
-![main](https://github.com/user-attachments/assets/ab10f674-a2f1-45b8-8a30-700476cb4bad)
+<img src="images/gifmain.gif" alt="Main GIF" width="100%"/>
 
-![gifthird](https://github.com/user-attachments/assets/a5ab8c48-3a97-495c-b26c-30248c35dff5)
+<img src="images/secondd.gif" alt="Second GIF" width="100%"/>
 
-![second](https://github.com/user-attachments/assets/e5b45c6c-0e44-4435-95b7-d08d776b8f27)
+<img src="images/gifthird.gif" alt="Third GIF" width="100%"/>
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
   <img src="https://github.com/user-attachments/assets/20e148c8-dfb2-4871-bd43-41bca6a2a5cc" alt="1" width="49%">
